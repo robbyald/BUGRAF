@@ -1,0 +1,2072 @@
+fileFormatVersion: 2
+guid: c8c47b81d531b274e9f9d693bafa7f18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1290089682574698221
+    second: Pieces9x9 A_0
+  - first:
+      213: 1741991617299868095
+    second: Pieces9x9 A_1
+  - first:
+      213: 1911051414888519179
+    second: Pieces9x9 A_2
+  - first:
+      213: -302166186305696091
+    second: Pieces9x9 A_3
+  - first:
+      213: 8888257029055977866
+    second: Pieces9x9 A_4
+  - first:
+      213: 6798151462132924172
+    second: Pieces9x9 A_5
+  - first:
+      213: 5930751773080266752
+    second: Pieces9x9 A_6
+  - first:
+      213: -3311952956704852001
+    second: Pieces9x9 A_7
+  - first:
+      213: 5744619213216864682
+    second: Pieces9x9 A_8
+  - first:
+      213: 710850254422438190
+    second: Pieces9x9 A_9
+  - first:
+      213: 857220569696808224
+    second: Pieces9x9 A_10
+  - first:
+      213: 5896876864767435220
+    second: Pieces9x9 A_11
+  - first:
+      213: -3512812516446637617
+    second: Pieces9x9 A_12
+  - first:
+      213: -3907191879527450977
+    second: Pieces9x9 A_13
+  - first:
+      213: -2656908531777615956
+    second: Pieces9x9 A_14
+  - first:
+      213: -2550832249396652694
+    second: Pieces9x9 A_15
+  - first:
+      213: -482566540116791188
+    second: Pieces9x9 A_16
+  - first:
+      213: 6116540135716372870
+    second: Pieces9x9 A_17
+  - first:
+      213: -5240968180133065855
+    second: Pieces9x9 A_18
+  - first:
+      213: 8210398358845484222
+    second: Pieces9x9 A_19
+  - first:
+      213: 2817704575059084764
+    second: Pieces9x9 A_20
+  - first:
+      213: -1727304912978646081
+    second: Pieces9x9 A_21
+  - first:
+      213: 8514015443318448478
+    second: Pieces9x9 A_22
+  - first:
+      213: 7060651861201938544
+    second: Pieces9x9 A_23
+  - first:
+      213: 3166000980075510218
+    second: Pieces9x9 A_24
+  - first:
+      213: -2583082622942704642
+    second: Pieces9x9 A_25
+  - first:
+      213: -4022748541125754618
+    second: Pieces9x9 A_26
+  - first:
+      213: -7848260346569932199
+    second: Pieces9x9 A_27
+  - first:
+      213: -4786301229098613580
+    second: Pieces9x9 A_28
+  - first:
+      213: 48130075717650086
+    second: Pieces9x9 A_29
+  - first:
+      213: -8096625990493289572
+    second: Pieces9x9 A_30
+  - first:
+      213: 7824815892015541967
+    second: Pieces9x9 A_31
+  - first:
+      213: -2804926744963539318
+    second: Pieces9x9 A_32
+  - first:
+      213: 4554360266493197979
+    second: Pieces9x9 A_33
+  - first:
+      213: -595968948965395897
+    second: Pieces9x9 A_34
+  - first:
+      213: -3258120387707464517
+    second: Pieces9x9 A_35
+  - first:
+      213: -8750067021847188431
+    second: Pieces9x9 A_36
+  - first:
+      213: -7606755919469201946
+    second: Pieces9x9 A_37
+  - first:
+      213: -2072705605203894176
+    second: Pieces9x9 A_38
+  - first:
+      213: 6125087510917579121
+    second: Pieces9x9 A_39
+  - first:
+      213: -8874048199480485679
+    second: Pieces9x9 A_40
+  - first:
+      213: 684550450997768079
+    second: Pieces9x9 A_41
+  - first:
+      213: -6568829491406802916
+    second: Pieces9x9 A_42
+  - first:
+      213: 2796252664609024970
+    second: Pieces9x9 A_43
+  - first:
+      213: -922782145599841925
+    second: Pieces9x9 A_44
+  - first:
+      213: -5449233393232083929
+    second: Pieces9x9 A_45
+  - first:
+      213: 5162885667664034306
+    second: Pieces9x9 A_46
+  - first:
+      213: 6554665183990208279
+    second: Pieces9x9 A_47
+  - first:
+      213: -8412337867637596471
+    second: Pieces9x9 A_48
+  - first:
+      213: 2116583213914268626
+    second: Pieces9x9 A_49
+  - first:
+      213: -3937581253309311048
+    second: Pieces9x9 A_50
+  - first:
+      213: -6731092117906154329
+    second: Pieces9x9 A_51
+  - first:
+      213: 9076617153432280595
+    second: Pieces9x9 A_52
+  - first:
+      213: 7734818993322638750
+    second: Pieces9x9 A_53
+  - first:
+      213: 5360973446272956999
+    second: Pieces9x9 A_54
+  - first:
+      213: 1143490859106041116
+    second: Pieces9x9 A_55
+  - first:
+      213: -166774339212769001
+    second: Pieces9x9 A_56
+  - first:
+      213: 3444872437738713975
+    second: Pieces9x9 A_57
+  - first:
+      213: -8341182674553727525
+    second: Pieces9x9 A_58
+  - first:
+      213: 7839311688468816722
+    second: Pieces9x9 A_59
+  - first:
+      213: -51759059778919871
+    second: Pieces9x9 A_60
+  - first:
+      213: -7461565561162624304
+    second: Pieces9x9 A_61
+  - first:
+      213: 452973438055880429
+    second: Pieces9x9 A_62
+  - first:
+      213: 3844792077212698452
+    second: Pieces9x9 A_63
+  - first:
+      213: -6615746990157018217
+    second: Pieces9x9 A_64
+  - first:
+      213: -2992440044237147413
+    second: Pieces9x9 A_65
+  - first:
+      213: 5990185272138689853
+    second: Pieces9x9 A_66
+  - first:
+      213: 3846848323917060503
+    second: Pieces9x9 A_67
+  - first:
+      213: 8025216404476807233
+    second: Pieces9x9 A_68
+  - first:
+      213: 462506003959061526
+    second: Pieces9x9 A_69
+  - first:
+      213: 6268615727049830615
+    second: Pieces9x9 A_70
+  - first:
+      213: 4237495635759739002
+    second: Pieces9x9 A_71
+  - first:
+      213: -9006894805156736833
+    second: Pieces9x9 A_72
+  - first:
+      213: -1738359715709648466
+    second: Pieces9x9 A_73
+  - first:
+      213: -4050339576527941213
+    second: Pieces9x9 A_74
+  - first:
+      213: 3727185746182531337
+    second: Pieces9x9 A_75
+  - first:
+      213: -2194772981000917618
+    second: Pieces9x9 A_76
+  - first:
+      213: 4763371406390261486
+    second: Pieces9x9 A_77
+  - first:
+      213: -6390303010616221309
+    second: Pieces9x9 A_78
+  - first:
+      213: 5661303806344898010
+    second: Pieces9x9 A_79
+  - first:
+      213: 3693317677336237929
+    second: Pieces9x9 A_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pieces9x9 A_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1158
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3191db5d44ea81ee0800000000000000
+      internalID: -1290089682574698221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1184
+        width: 155
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9edde752ccc2810800000000000000
+      internalID: 1741991617299868095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1165
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0610fbf22b658a10800000000000000
+      internalID: 1911051414888519179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1184
+        width: 155
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae4d1a547d7ecbf0800000000000000
+      internalID: -302166186305696091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1161
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8910490dae695b70800000000000000
+      internalID: 8888257029055977866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1184
+        width: 155
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f3cb59cb2e75e50800000000000000
+      internalID: 6798151462132924172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_6
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1165
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a77da0534e4250800000000000000
+      internalID: 5930751773080266752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_7
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1181
+        width: 155
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd77dc655549902d0800000000000000
+      internalID: -3311952956704852001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_8
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1154
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9dca5fcbcf8bf40800000000000000
+      internalID: 5744619213216864682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1040
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2178574a827dd900800000000000000
+      internalID: 710850254422438190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1022
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dafeef09575eb00800000000000000
+      internalID: 857220569696808224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1047
+        width: 153
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1aea8f34ae5d150800000000000000
+      internalID: 5896876864767435220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1019
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f6a2c0abff3fc0800000000000000
+      internalID: -3512812516446637617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1048
+        width: 153
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96b97fcfadd6c9c0800000000000000
+      internalID: -3907191879527450977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_14
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1022
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c0ba64c3c02bd0800000000000000
+      internalID: -2656908531777615956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_15
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1049
+        width: 153
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a651a15859f999cd0800000000000000
+      internalID: -2550832249396652694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_16
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1015
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6079dbd9449d49f0800000000000000
+      internalID: -482566540116791188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_17
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1041
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6814bcbb8d052e450800000000000000
+      internalID: 6116540135716372870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 881
+        width: 97
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b0b0045375447b0800000000000000
+      internalID: -5240968180133065855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 906
+        width: 153
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc6f6b8ec131f170800000000000000
+      internalID: 8210398358845484222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 876
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5c366d16f7a1720800000000000000
+      internalID: 2817704575059084764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 902
+        width: 155
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbee1355516708e0800000000000000
+      internalID: -1727304912978646081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 875
+        width: 96
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51af2fbfebd72670800000000000000
+      internalID: 8514015443318448478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_23
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 903
+        width: 153
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07864a575797cf160800000000000000
+      internalID: 7060651861201938544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_24
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 873
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac970fffd15efeb20800000000000000
+      internalID: 3166000980075510218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 907
+        width: 155
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb040a4a0c072cd0800000000000000
+      internalID: -2583082622942704642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_26
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 874
+        width: 94
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6018a79e3835c28c0800000000000000
+      internalID: -4022748541125754618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 758
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9524ae1fbc0651390800000000000000
+      internalID: -7848260346569932199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 734
+        width: 98
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4cf8b1464a39db0800000000000000
+      internalID: -4786301229098613580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 759
+        width: 155
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c9228c0efaa000800000000000000
+      internalID: 48130075717650086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 729
+        width: 92
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c3753f8103af80800000000000000
+      internalID: -8096625990493289572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 755
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceea6c9894579c60800000000000000
+      internalID: 7824815892015541967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_32
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 726
+        width: 92
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e94719cf5e219d0800000000000000
+      internalID: -2804926744963539318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_33
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 756
+        width: 155
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9efa774886543f30800000000000000
+      internalID: 4554360266493197979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_34
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 724
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74231c30661bab7f0800000000000000
+      internalID: -595968948965395897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_35
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 752
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb41d3705c4d8c2d0800000000000000
+      internalID: -3258120387707464517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 576
+        width: 97
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c20f94764819680800000000000000
+      internalID: -8750067021847188431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 603
+        width: 153
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e530f62bcf5f6690800000000000000
+      internalID: -7606755919469201946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 573
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606cd5db354c33e0800000000000000
+      internalID: -2072705605203894176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 603
+        width: 155
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718c6a93aea00550800000000000000
+      internalID: 6125087510917579121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_40
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 570
+        width: 93
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d85546ed2c09d480800000000000000
+      internalID: -8874048199480485679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 599
+        width: 153
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2e8e1203008900800000000000000
+      internalID: 684550450997768079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_42
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 567
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1076967164d6d4a0800000000000000
+      internalID: -6568829491406802916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 594
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba248bbf84ec620800000000000000
+      internalID: 2796252664609024970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 565
+        width: 97
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79d276178e9133f0800000000000000
+      internalID: -922782145599841925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 462
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7248432a91f6064b0800000000000000
+      internalID: -5449233393232083929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 433
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20af11d192146a740800000000000000
+      internalID: 5162885667664034306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 461
+        width: 155
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7175b59b149d6fa50800000000000000
+      internalID: 6554665183990208279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_48
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 431
+        width: 92
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced4e4a74f514b80800000000000000
+      internalID: -8412337867637596471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_49
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 464
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32aea083d9f5d10800000000000000
+      internalID: 2116583213914268626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_50
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 431
+        width: 92
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7d24a56b6ea59c0800000000000000
+      internalID: -3937581253309311048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_51
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 456
+        width: 155
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac95c1b16b5692a0800000000000000
+      internalID: -6731092117906154329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_52
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 430
+        width: 97
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e5c88063f96fd70800000000000000
+      internalID: 9076617153432280595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_53
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 456
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db0f2c4e8975b60800000000000000
+      internalID: 7734818993322638750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 286
+        width: 93
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab66b12f0066a40800000000000000
+      internalID: 5360973446272956999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 313
+        width: 155
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dfbecb0ee7edf00800000000000000
+      internalID: 1143490859106041116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 282
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71982914f9f7fadf0800000000000000
+      internalID: -166774339212769001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 311
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77333fbfa35aecf20800000000000000
+      internalID: 3444872437738713975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_58
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 275
+        width: 96
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5159c0d8a2e3c80800000000000000
+      internalID: -8341182674553727525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_59
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 298
+        width: 155
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25360ca3274dacc60800000000000000
+      internalID: 7839311688468816722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_60
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 271
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14228fbc86d184ff0800000000000000
+      internalID: -51759059778919871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_61
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 304
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d21d9ab7a1337890800000000000000
+      internalID: -7461565561162624304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_62
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 277
+        width: 97
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6120421f8494600800000000000000
+      internalID: 452973438055880429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 154
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457cf7d06027b5530800000000000000
+      internalID: 3844792077212698452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_64
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 126
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc4d70a252034a0800000000000000
+      internalID: -6615746990157018217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 154
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2379762a7b876d0800000000000000
+      internalID: -2992440044237147413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_66
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 133
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6a9484c9612350800000000000000
+      internalID: 5990185272138689853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_67
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 154
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79912eb4b20c26530800000000000000
+      internalID: 3846848323917060503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 126
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484a7aeccb4f5f60800000000000000
+      internalID: 8025216404476807233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_69
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 154
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c177892c62b6600800000000000000
+      internalID: 462506003959061526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_70
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 130
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d07b3c8ac89ef650800000000000000
+      internalID: 6268615727049830615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_71
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 153
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703aba54db9eca30800000000000000
+      internalID: 4237495635759739002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 92
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0525135e4110380800000000000000
+      internalID: -9006894805156736833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 156
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1074d7c0b10e7e0800000000000000
+      internalID: -1738359715709648466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a198516d9d4ac7c0800000000000000
+      internalID: -4050339576527941213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_75
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5
+        width: 156
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909eb1d40bf99b330800000000000000
+      internalID: 3727185746182531337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_76
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 4
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8da0d82a999a81e0800000000000000
+      internalID: -2194772981000917618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_77
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 5
+        width: 156
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f4238e05ea1240800000000000000
+      internalID: 4763371406390261486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_78
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 4
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816c15e4451157a0800000000000000
+      internalID: -6390303010616221309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_79
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 3
+        width: 156
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad521c621ddf09e40800000000000000
+      internalID: 5661303806344898010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces9x9 A_80
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 4
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9671c480cdc414330800000000000000
+      internalID: 3693317677336237929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

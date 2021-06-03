@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: b277d4cdec3fb384ab2c4ff64e711fdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6035165142101582765
+    second: Pieces5x5 B_0
+  - first:
+      213: -7758072163565104698
+    second: Pieces5x5 B_1
+  - first:
+      213: 2856963970799036884
+    second: Pieces5x5 B_2
+  - first:
+      213: 8685299126201309527
+    second: Pieces5x5 B_3
+  - first:
+      213: 2061451679240725563
+    second: Pieces5x5 B_4
+  - first:
+      213: -8667420607374072316
+    second: Pieces5x5 B_5
+  - first:
+      213: 1523978809632760329
+    second: Pieces5x5 B_6
+  - first:
+      213: 7273790519404493216
+    second: Pieces5x5 B_7
+  - first:
+      213: -3366723379116485293
+    second: Pieces5x5 B_8
+  - first:
+      213: -5904418273679925066
+    second: Pieces5x5 B_9
+  - first:
+      213: -8586437951112703596
+    second: Pieces5x5 B_10
+  - first:
+      213: -8290964590697768615
+    second: Pieces5x5 B_11
+  - first:
+      213: 7825698359552173672
+    second: Pieces5x5 B_12
+  - first:
+      213: 6612577366165485630
+    second: Pieces5x5 B_13
+  - first:
+      213: 1559186427456560173
+    second: Pieces5x5 B_14
+  - first:
+      213: 6326176681341830496
+    second: Pieces5x5 B_15
+  - first:
+      213: -5431198224205080951
+    second: Pieces5x5 B_16
+  - first:
+      213: 5230521771676090866
+    second: Pieces5x5 B_17
+  - first:
+      213: -4849787945542059220
+    second: Pieces5x5 B_18
+  - first:
+      213: -8674843490791976215
+    second: Pieces5x5 B_19
+  - first:
+      213: -1223007661691812237
+    second: Pieces5x5 B_20
+  - first:
+      213: -8911575424999224679
+    second: Pieces5x5 B_21
+  - first:
+      213: -2012630565568756062
+    second: Pieces5x5 B_22
+  - first:
+      213: -1811418390459125966
+    second: Pieces5x5 B_23
+  - first:
+      213: 853668219860519245
+    second: Pieces5x5 B_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pieces5x5 B_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1082
+        width: 167
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e8c798b631c350800000000000000
+      internalID: 6035165142101582765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1132
+        width: 278
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c11bd4a87ac55490800000000000000
+      internalID: -7758072163565104698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1087
+        width: 175
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e0973899f5a720800000000000000
+      internalID: 2856963970799036884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1132
+        width: 278
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7595d31e981688870800000000000000
+      internalID: 8685299126201309527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1082
+        width: 165
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34a6c6516fbb9c10800000000000000
+      internalID: 2061451679240725563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 857
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406619a21e227b780800000000000000
+      internalID: -8667420607374072316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 808
+        width: 174
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902226927a2462510800000000000000
+      internalID: 1523978809632760329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 858
+        width: 272
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a975bf60f1b1f460800000000000000
+      internalID: 7273790519404493216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 808
+        width: 174
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35552c2aceef641d0800000000000000
+      internalID: -3366723379116485293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_9
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 856
+        width: 216
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0abffecda4f0ea0800000000000000
+      internalID: -5904418273679925066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 548
+        width: 171
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4919ef52d28d6d880800000000000000
+      internalID: -8586437951112703596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 595
+        width: 276
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591e16d1a390fc80800000000000000
+      internalID: -8290964590697768615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 538
+        width: 165
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e67812377a9c60800000000000000
+      internalID: 7825698359552173672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 599
+        width: 276
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38f410641894cb50800000000000000
+      internalID: 6612577366165485630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_14
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 525
+        width: 174
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c982b7bc753a510800000000000000
+      internalID: 1559186427456560173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 305
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0654db59c281bc750800000000000000
+      internalID: 6326176681341830496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 256
+        width: 174
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9861685adf180a4b0800000000000000
+      internalID: -5431198224205080951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 318
+        width: 273
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f143beb6db869840800000000000000
+      internalID: 5230521771676090866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_18
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 261
+        width: 174
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7efd0f8712bcb0800000000000000
+      internalID: -4849787945542059220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_19
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 302
+        width: 216
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21c317ec3cc9780800000000000000
+      internalID: -8674843490791976215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 165
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376474fe201070fe0800000000000000
+      internalID: -1223007661691812237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 11
+        width: 278
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a02d3dd59b35480800000000000000
+      internalID: -8911575424999224679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 11
+        width: 175
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64e2bf923b114e0800000000000000
+      internalID: -2012630565568756062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 11
+        width: 278
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe219329c8cd6e0800000000000000
+      internalID: -1811418390459125966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pieces5x5 B_24
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 0
+        width: 167
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4983d819b6d8db00800000000000000
+      internalID: 853668219860519245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
